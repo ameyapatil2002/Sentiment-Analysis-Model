@@ -1,4 +1,4 @@
-# Customer Feedback Sentiment Analysis 
+
 
 Deep learning model based on LSTM and RNN which differentiates the input sentence/review as positive or negative
 
